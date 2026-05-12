@@ -36,6 +36,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -214,4 +216,8 @@
 | [1103-distribute-candies-to-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2073-time-needed-to-buy-tickets) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
