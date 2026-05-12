@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0347-top-k-frequent-elements) |
@@ -31,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0392-is-subsequence) |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
