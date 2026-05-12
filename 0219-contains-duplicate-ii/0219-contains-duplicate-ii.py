@@ -1,0 +1,12 @@
+class Solution(object):
+    def containsNearbyDuplicate(self, nums, k):
+        seen = {}
+
+        for i, x in enumerate(nums):
+
+            if x in seen and i - seen[x] <= k:
+                return True
+
+            seen[x] = i
+
+        return False
