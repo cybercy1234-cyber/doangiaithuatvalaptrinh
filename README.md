@@ -31,6 +31,7 @@
 | [1748-sum-of-unique-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2073-time-needed-to-buy-tickets) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,4 +200,5 @@
 | [0495-teemo-attacking](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
