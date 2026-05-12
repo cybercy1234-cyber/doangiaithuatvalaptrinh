@@ -28,6 +28,7 @@
 | [0605-can-place-flowers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0881-boats-to-save-people) |
@@ -298,6 +299,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2000-reverse-prefix-of-word) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
